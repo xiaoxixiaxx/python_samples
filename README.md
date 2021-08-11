@@ -1,1 +1,1 @@
-## Machine Learning (Coding samples)
+## Machine Learning (coding samples)
